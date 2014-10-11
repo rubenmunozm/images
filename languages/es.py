@@ -1,4 +1,4 @@
-# coding: utf-8
+# -*- coding: utf-8 -*-
 {
 '!langcode!': 'es',
 '!langname!': 'Español',
@@ -128,6 +128,7 @@
 'Email and SMS': 'Correo electrónico y SMS',
 'Email sent': 'Correo electrónico enviado',
 'enter a number between %(min)g and %(max)g': 'introduzca un número entre %(min)g y %(max)g',
+'Enter an integer between %(min)g and %(max)g': 'Enter an integer between %(min)g and %(max)g',
 'enter an integer between %(min)g and %(max)g': 'introduzca un entero entre %(min)g y %(max)g',
 'Error logs for "%(app)s"': 'Bitácora de errores en "%(app)s"',
 'errors': 'errores',
