@@ -48,6 +48,12 @@ def lhtrabajo():
 def lhministerio():
     return locals()
 
+def tiendita():
+    return locals()
+
+def tiendita_en():
+    return locals()
+
 ##para modo ingles
 
 def casaabierta_en():
